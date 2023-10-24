@@ -1,0 +1,7 @@
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\bin\Debug\Strings.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\bin\Debug\Strings.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\bin\Debug\Strings.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\obj\Debug\Strings.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Strings\obj\Debug\Strings.pdb
