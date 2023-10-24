@@ -33,6 +33,7 @@ namespace Arrays
                 Console.WriteLine(student);
             }
 
+            Console.WriteLine("************");
 
             string[,] regions = new string[5, 3]
             {

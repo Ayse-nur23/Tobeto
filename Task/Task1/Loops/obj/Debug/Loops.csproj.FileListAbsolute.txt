@@ -1,0 +1,7 @@
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\bin\Debug\Loops.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\bin\Debug\Loops.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\bin\Debug\Loops.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\obj\Debug\Loops.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Loops\obj\Debug\Loops.pdb

@@ -1,0 +1,7 @@
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\bin\Debug\Arrays.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\obj\Debug\Arrays.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Arrays\obj\Debug\Arrays.pdb
