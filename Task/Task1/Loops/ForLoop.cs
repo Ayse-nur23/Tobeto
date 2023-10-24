@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Loops
 {
-    internal class Program
+    internal class ForLoop
     {
         static void Main(string[] args)
         {
+            //for
             for (int i = 1; i <= 100; i++)
             {
                 Console.WriteLine(i);
@@ -31,6 +32,12 @@ namespace Loops
             }
             Console.WriteLine("Finished");
 
+            //foreach 
+            string[] students = { "Engin", "Derin", "Salih" };
+            foreach (var student in students)
+            {
+                Console.WriteLine(student);
+            }
             Console.ReadLine();
         }
     }
