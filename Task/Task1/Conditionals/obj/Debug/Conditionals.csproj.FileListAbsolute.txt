@@ -1,0 +1,7 @@
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
