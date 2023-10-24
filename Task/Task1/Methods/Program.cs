@@ -18,11 +18,8 @@ namespace Methods
             int result3 = Add3(21);
             Console.WriteLine("Add3 methods: {0}", result3);
 
-            int number1 = 20;
-            int number2 = 300;
-            var result4 = Add4(ref number1, number2);
-            Console.WriteLine("Add3 methods: { 0}", result4);
-            Console.WriteLine("Number1 is {0}", number1);
+            Console.WriteLine(Multiply(22,4));
+            Console.WriteLine(Multiply2(22, 4, 5));
 
             Console.ReadLine();
         }
@@ -39,24 +36,20 @@ namespace Methods
             return num1 + num2;
         }
 
-        //default parametre: değişkene değer gelmezse parametrede verilen değeri alır.
+        //default parametre: değişkene değer gelmezse parametrede verilen değeri alır. Parametrenin en sonuna tanımlanır.
         static int Add3(int num1, int num2 = 30)
         {
             return num1 + num2;
         }
 
-        //ref: değişkeni referans tip gibi çalıştırır
-        static int Add4(ref int number1, int number2)
+        
+        static int Multiply(int number1, int number2)
         {
-            number1 = 30;
             return number1 + number2;
         }
-
-        //out: değişkeni referans tip gibi çalıştırır
-        static int Add5(out int number1, int number2)
+        static int Multiply2(int number1, int number2, int number3)
         {
-            number1 = 30;
-            return number1 + number2;
+            return number1 + number2 + number3;
         }
     }
 }

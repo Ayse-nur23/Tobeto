@@ -21,7 +21,7 @@ namespace Methods
             Console.WriteLine("Add3 methods: {0}", result2);
             Console.WriteLine("Number1 is {0}", number1);
 
-            int number3 = 120;
+            int number3;
             int number4 = 30;
 
             var result3 = Add3(out number3, number4);
@@ -37,14 +37,14 @@ namespace Methods
             return number1 + number2;
         }
 
-        //ref: değişkeni referans tip gibi çalıştırır
+        //ref: değişkeni referans tip gibi çalıştırır.
         static int Add2(ref int number1, int number2)
         {
             number1 = 30;
             return number1 + number2;
         }
 
-        //out: ref benzer ama ilk değeri verilmeye bilir
+        //out: ref benzer ama ilk değeri verilmez.
         static int Add3(out int number1, int number2)
         {
             number1 = 30;
