@@ -10,6 +10,7 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+         
             Add();
             var result2 = Add2(10, 21);
             Console.WriteLine("Add2 methods: {0}", result2);

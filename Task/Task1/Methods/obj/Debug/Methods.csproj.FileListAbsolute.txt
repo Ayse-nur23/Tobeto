@@ -5,3 +5,10 @@ C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Methods\obj\Debug\Methods.csproj.Assem
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Methods\obj\Debug\Methods.exe
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Methods\obj\Debug\Methods.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\bin\Debug\Methods.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\bin\Debug\Methods.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\bin\Debug\Methods.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\obj\Debug\Methods.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Methods\obj\Debug\Methods.pdb

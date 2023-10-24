@@ -5,3 +5,10 @@ C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.cs
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\Conditionals\obj\Debug\Conditionals.pdb
