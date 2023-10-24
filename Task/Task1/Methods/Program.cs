@@ -18,8 +18,10 @@ namespace Methods
             int result3 = Add3(21);
             Console.WriteLine("Add3 methods: {0}", result3);
 
-            Console.WriteLine(Multiply(22,4));
-            Console.WriteLine(Multiply2(22, 4, 5));
+            Console.WriteLine(Multiply(22, 4));
+            Console.WriteLine(Multiply(22, 4, 5));
+
+            Console.WriteLine(Add4(2, 3, 4, 5));
 
             Console.ReadLine();
         }
@@ -42,14 +44,21 @@ namespace Methods
             return num1 + num2;
         }
 
-        
+        //Metot overloading
         static int Multiply(int number1, int number2)
         {
-            return number1 + number2;
+            return number1 * number2;
         }
-        static int Multiply2(int number1, int number2, int number3)
+        static int Multiply(int number1, int number2, int number3)
         {
-            return number1 + number2 + number3;
+            return number1 * number2 * number3;
         }
+
+        //Params: parametreye aynı tipte istenilen kadar parametere gönderilebiilir. Parametrenin en sonuna tanımlanır.
+        static int Add4(params int[] numbers)
+        {
+            return numbers.Sum();
+        }
+
     }
 }
