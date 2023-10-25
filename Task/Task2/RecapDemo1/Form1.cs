@@ -20,6 +20,12 @@ namespace RecapDemo1
         //İlk çalışsan blok
         private void Form1_Load(object sender, EventArgs e)
         {
+            GenerateButtons();
+
+        }
+
+        private void GenerateButtons()
+        {
             Button[,] buttons = new Button[8, 8];
             int top = 0;
             int left = 0;
@@ -46,8 +52,6 @@ namespace RecapDemo1
                 left = 0;
                 top += 50;
             }
-            
-            
         }
     }
 }
