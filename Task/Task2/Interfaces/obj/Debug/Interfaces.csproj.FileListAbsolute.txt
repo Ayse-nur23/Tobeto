@@ -1,0 +1,7 @@
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task2\Interfaces\obj\Debug\Interfaces.pdb

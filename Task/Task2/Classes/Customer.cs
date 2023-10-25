@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
+    //somut nesne
     internal class Customer
     {
         //bu tip classlar sadece özellik içerir
