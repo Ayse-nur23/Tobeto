@@ -8,6 +8,8 @@ namespace Interfaces
 {
     internal class Program
     {
+        /*soyut bir sınftır, tek başına bir anlamı yoktur, nesne üretemez(newlenemez), sınıflar birden fazla inteface alabilirler.
+          *interface'lerde implode yaptığı sınıfın referans numarasını  tutar */
         static void Main(string[] args)
         {
             //IntarfacesIntro();
@@ -51,8 +53,7 @@ namespace Interfaces
         }
     }
 
-   /*soyut bir sınftır, tek başına bir anlamı yoktur, nesne üretemez(newlenemez)
-    *interface'lerde implode yaptığı sınıfın referans numarasını  tutar */
+ 
     interface IPerson
     {
         int Id { get; set; }
