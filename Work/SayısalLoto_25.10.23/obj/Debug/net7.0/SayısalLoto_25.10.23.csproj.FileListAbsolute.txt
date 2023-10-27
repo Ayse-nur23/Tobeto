@@ -1,0 +1,14 @@
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\bin\Debug\net7.0\SayısalLoto_25.10.23.exe
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\bin\Debug\net7.0\SayısalLoto_25.10.23.deps.json
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\bin\Debug\net7.0\SayısalLoto_25.10.23.runtimeconfig.json
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\bin\Debug\net7.0\SayısalLoto_25.10.23.dll
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\bin\Debug\net7.0\SayısalLoto_25.10.23.pdb
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.AssemblyInfoInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.AssemblyInfo.cs
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.dll
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\refint\SayısalLoto_25.10.23.dll
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.pdb
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\SayısalLoto_25.10.23.genruntimeconfig.cache
+C:\Users\ayse6\source\repos\Tobeto\Work\SayısalLoto_25.10.23\obj\Debug\net7.0\ref\SayısalLoto_25.10.23.dll

@@ -1,0 +1,7 @@
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\bin\Debug\Exam_27.10.23.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\bin\Debug\Exam_27.10.23.exe
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\bin\Debug\Exam_27.10.23.pdb
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\obj\Debug\Exam_27.10.23.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\obj\Debug\Exam_27.10.23.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\obj\Debug\Exam_27.10.23.exe
+C:\Users\ayse6\source\repos\Tobeto\Work\Exam_27.10.23\obj\Debug\Exam_27.10.23.pdb
