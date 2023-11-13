@@ -5,3 +5,10 @@ C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVa
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
 C:\Tobeto\CSharp\Task\Task_1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task1\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

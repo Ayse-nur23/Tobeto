@@ -51,7 +51,8 @@ namespace TypesAndVariables
 
             //decimal(128bit), karakter hasasiyeti 29, sonuna m gelir, [±1.0 x 10 - 28 to ±7.9228 x 1028]
             decimal numDecimal = 128.128m;
-            Console.WriteLine("NumDecimal is {0}", numDecimal);
+            decimal sonuc = decimal.Parse("12,3");
+            Console.WriteLine("NumDecimal is " + (sonuc + 3));
 
 
             //enum değişmeyecek değerleri tanımlamada kullanılır.
