@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\Mathematics\\Mathematics.csproj": {}
+    "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\Mathematics\\Mathematics.csproj": {
+    "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\Mathematics\\Mathematics.csproj",
-        "projectName": "Mathematics",
-        "projectPath": "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\Mathematics\\Mathematics.csproj",
+        "projectUniqueName": "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj",
+        "projectName": "ValueAndReferenceTypes",
+        "projectPath": "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj",
         "packagesPath": "C:\\Users\\ayse6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\Mathematics\\obj\\",
+        "outputPath": "C:\\Users\\ayse6\\source\\repos\\Tobeto\\Task\\Task3\\ValueAndReferenceTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayse6\\AppData\\Roaming\\NuGet\\NuGet.Config",

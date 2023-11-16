@@ -1,0 +1,14 @@
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\bin\Debug\net7.0\OOP1.exe
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\bin\Debug\net7.0\OOP1.deps.json
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\bin\Debug\net7.0\OOP1.runtimeconfig.json
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\bin\Debug\net7.0\OOP1.dll
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\bin\Debug\net7.0\OOP1.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.AssemblyInfoInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.AssemblyInfo.cs
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.dll
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\refint\OOP1.dll
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.pdb
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\OOP1.genruntimeconfig.cache
+C:\Users\ayse6\source\repos\Tobeto\Task\Task3\OOP1\obj\Debug\net7.0\ref\OOP1.dll

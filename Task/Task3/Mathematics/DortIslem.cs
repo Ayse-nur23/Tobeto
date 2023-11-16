@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Mathematics
-
+{
     public class DortIslem
     {
         public void Topla(int sayi1,int sayi2)
