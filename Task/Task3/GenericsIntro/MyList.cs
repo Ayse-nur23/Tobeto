@@ -22,6 +22,8 @@ namespace GenericIntro
             items[items.Length - 1] = item; 
         }
 
-        
+        public int Count { get { return items.Length; } }
+
+
     }
 }//count:eleman sayısı   length:eleman uzunluğu
