@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GameProject\\GameProject",
+    "\\Task"
   ],
-  "SelectedNode": "\\KampInro.sln",
+  "SelectedNode": "\\GameProject",
   "PreviewInSolutionExplorer": false
 }

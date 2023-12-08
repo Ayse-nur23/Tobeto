@@ -1,0 +1,5 @@
+C:\Users\ayse6\source\repos\Tobeto\TobetoCourseAcademy\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayse6\source\repos\Tobeto\TobetoCourseAcademy\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\TobetoCourseAcademy\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\ayse6\source\repos\Tobeto\TobetoCourseAcademy\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ayse6\source\repos\Tobeto\TobetoCourseAcademy\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache

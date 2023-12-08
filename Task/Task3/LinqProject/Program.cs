@@ -32,7 +32,7 @@
 
             //ClassicLinqTest(products);
 
-            var result = from p in products              
+            var result = from p in products
                          join c in categories
                          on p.CategoryId equals c.CategoryId
                          where p.UnitPrice > 100
@@ -72,13 +72,13 @@
 
         private static void FindAllTest(List<Product> products)
         {
-            var result = products.FindAll(p => p.ProductName.Contains("ar")).OrderByDescending(p=>p.UnitPrice).ThenByDescending(p=>p.ProductName);
+            var result = products.FindAll(p => p.ProductName.Contains("ar")).OrderByDescending(p => p.UnitPrice).ThenByDescending(p => p.ProductName);
             foreach (var item in result)
             {
                 Console.WriteLine(item.ProductName);
             }
 
-            var result1= products.Where(p => p.ProductName.Contains("ar")).OrderBy(p => p.UnitPrice).ThenBy(p=>p.ProductName);
+            var result1 = products.Where(p => p.ProductName.Contains("ar")).OrderBy(p => p.UnitPrice).ThenBy(p => p.ProductName);
             foreach (var product in result1)
             {
                 Console.WriteLine(product.ProductName);
