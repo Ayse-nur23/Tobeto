@@ -1,4 +1,6 @@
-﻿using Core.DataAccess.Dynamic;
+﻿
+
+using Core.DataAccess.Dynamic;
 using Core.DataAccess.Repositories;
 using Core.Entities;
 using DataAccess.Absracts;
@@ -23,23 +25,24 @@ public class EfCourseDal : EfRepositoryBase<Course, int, NorthwindContext>, ICou
     {
     }
 
-    //public async Task<IPaginate<CourseDetailDto>> GetCourseDetails()
-    //{
-    //    int index = 0;
-    //    int size = 20;
-    //    using (NorthwindContext context = new NorthwindContext())
-    //    {
-    //        var result = await (from course in context.Courses
-    //                            join category in context.Categories
-    //                            on course.CategoryId equals category.Id
-    //                            select new CourseDetailDto
-    //                            {
-    //                                CategoryName = category.Name,
-    //                                CourseName = course.Name
-    //                            }).ToPaginateAsync(index, size, 0);
+ 
+    public async Task<IPaginate<CourseDetailDto>> GetCourseDetails()
+    {
+        int index = 0;
+        int size = 20;
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            var result = await (from course in context.Courses
+                                join category in context.Categories
+                                on course.CategoryId equals category.Id
+                                select new CourseDetailDto
+                                {
+                                    CategoryName = category.Name,
+                                    CourseName = course.Name
+                                }).ToPaginateAsync(index, size, 0);
 
-    //        return result;
-    //    }
+            return result;
+        }
 
-    //}
+    }
 }
